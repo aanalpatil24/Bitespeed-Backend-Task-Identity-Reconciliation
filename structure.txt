@@ -1,18 +1,7 @@
 identity-reconciliation/
-├── src/
-│   ├── config/
-│   │   └── database.js
-│   ├── models/
-│   │   └── Contact.js
-│   ├── services/
-│   │   └── contactService.js
-│   ├── controllers/
-│   │   └── contactController.js
-│   ├── routes/
-│   │   └── contactRoutes.js
-│   ├── utils/
-│   │   └── graphHelper.js
-│   └── app.js
 ├── .env
+├── .gitignore
+├── index.js
 ├── package.json
-└── server.js
+├── package-lock.json
+└── structure.txt
