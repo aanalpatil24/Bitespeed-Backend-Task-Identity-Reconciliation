@@ -1,6 +1,6 @@
-# BitSpeed Backend Test: Identity Reconciliation API
+# BiteSpeed Backend Test: Identity Reconciliation API
 
-This is a backend web service built for the BitSpeed Backend Test: Identity Reconciliation task. It links customer orders made with different emails and phone numbers into a single, unified profile using a relational database (PGSQL).
+This is a backend web service built for the BiteSpeed Backend Test: Identity Reconciliation task. It links customer orders made with different emails and phone numbers into a single, unified profile using a relational database (PGSQL).
 
 ## Tech Stack
 * **Node.js** & **Express.js** (Backend server)
@@ -20,4 +20,5 @@ I kept the architecture simple and focused on the core logic:
 1. **Install dependencies:**
    Open your terminal in the project folder and run:
    ```bash
+
    npm install
