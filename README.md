@@ -13,7 +13,8 @@ I kept the architecture simple and focused on the core logic:
 * `package.json`: Contains the project dependencies and startup scripts.
 * `.env`: Contains the environment variables for local testing.
 
-![alt text](<Screenshot 2026-02-27 041444.png>)
+<img width="1355" height="330" alt="Screenshot 2026-02-27 041444" src="https://github.com/user-attachments/assets/4249290c-73e1-43b1-ac96-6ee1c44815d2" />
+
 
 ## How to Run Locally
 
@@ -22,3 +23,4 @@ I kept the architecture simple and focused on the core logic:
    ```bash
 
    npm install
+
